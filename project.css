@@ -1,0 +1,21 @@
+#header{
+	font-family: "High Tower Text", "Arial Narrow", serif;
+	font-weight: bolder;
+	width: 99%;
+	background-color: #AF1D1D;
+}
+body{
+	font-family: "High Tower Text", "Arial Narrow", serif;
+	font-size: 17px;
+}
+#logo{
+	padding-right: 100px;
+	padding-left: 50px;
+	width: 99%;
+}
+#content{
+	height: 1100px;
+}
+#img{
+	height: 300px;
+}
